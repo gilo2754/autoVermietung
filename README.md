@@ -1,5 +1,5 @@
 # autoVermietung
-SQL-Code für Autovermietungsprojekt
+Autovermietungsprojekt mit Oracla DB, Funktionen in SQL und Frontend mit Bootstrap
 
 Requirements:
 - Oracle instant 
