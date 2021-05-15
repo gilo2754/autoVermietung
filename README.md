@@ -1,5 +1,5 @@
 # autoVermietung
-Autovermietungsprojekt mit Oracla DB, Funktionen in SQL und Frontend mit Bootstrap
+Autovermietungsprojekt mit einem Oracle Datenbank, Funktionen in SQL und Frontend mit Bootstrap
 
 Requirements:
 - Oracle instant 
